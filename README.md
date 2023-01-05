@@ -1,6 +1,9 @@
 ![Header](https://raw.githubusercontent.com/evgigna/evgigna/main/assets/header.png)
 
-### **About me**
+### **I'm a QA Engineer**
+
+### **My CV**
+[Link to my CV](https://hh.ru/resume/1e74b251ff08a98be50039ed1f747230317454)
 
 ### **Languages and Tools**
 ![Postman](https://img.shields.io/badge/-Postman-A3A3A3??style=for-the-badge&logo=postman)
