@@ -1,8 +1,8 @@
 ![Header](https://raw.githubusercontent.com/evgigna/evgigna/main/assets/header.png)
 
-About me
+### **About me**
 
-### Languages and Tools
+### **Languages and Tools**
 ![Postman](https://img.shields.io/badge/-Postman-A3A3A3)
 ![Atlassian Jira](https://img.shields.io/badge/-Atlassian_Jira-2E2E2E)
 ![Atlassian Confluence](https://img.shields.io/badge/-Confluence-A3A3A3)
@@ -14,4 +14,7 @@ About me
 ![pgAdmin4](https://img.shields.io/badge/-pgAdmin4-A3A3A3)
 ![Sitechco](https://img.shields.io/badge/-Sitechco-2E2E2E)
 
-Follow me
+### **Follow me**
+[Telegram](https://t.me/Evg_Ignatova)
+
+[E-mail](mailto:evg.ignatova87@gmail.com)
