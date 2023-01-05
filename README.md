@@ -1,4 +1,4 @@
-![Header] (https://github.com/evgigna/evgigna/blob/main/assets/header.png)
+![Header](https://raw.githubusercontent.com/evgigna/evgigna/main/assets/header.png)
 
 About me
 
