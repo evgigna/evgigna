@@ -27,7 +27,7 @@ ___
 + [Checklists](https://github.com/evgigna/Checklists)
 + [Test-Suites and Test-Cases](https://github.com/evgigna/Test-Suites-and-Test-Cases)
 + [Bug-Reports](https://github.com/evgigna/Bug-Reports)
-+ [Postman_Collections](https://github.com/evgigna/Postman-Collections)
++ [Postman_Collections](https://github.com/evgigna/Postman_Collections)
 ___
 
 
